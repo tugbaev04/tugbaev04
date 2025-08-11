@@ -1,22 +1,85 @@
-<h1 align="center">Привет! Меня зовут Артём</h1>
-<h3 align="center">A junior/trainee frontend developer</h3>
+# Привет! Меня зовут Артём
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugbaev04" alt="tugbaev04" /></a> </p>
+## Обо мне
+Самостоятельно реализовал несколько адаптивных SPA на React с оптимизированной загрузкой и модульной архитектурой, что привело к ускорению рендеринга и улучшению отзывчивости. Интересуюсь компонентной архитектурой и архитектурой клиентских приложений. Готов вливаться в команду, учиться и приносить реальные результаты.
 
-- 🌱 I’m currently learning **React, TypeScript**
+[Телеграм для связи](https://t.me/tugbaev04) · [Резюме на HH](https://hh.ru/resume/6888c796ff0e7b8a210039ed1f484878396a47)
 
-- Резюме на HH [https://hh.ru/resume/6888c796ff0e7b8a210039ed1f484878396a47](https://hh.ru/resume/6888c796ff0e7b8a210039ed1f484878396a47)
+---
 
-- Связаться со мной **https://t.me/tugbaev04**
+## Текущий фокус
+- В поиске первой работы на позиции junior / trainee  
+- Изучаю React и TypeScript
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artem tugbaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem tugbaev" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## My Skill Set
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugbaev04&show_icons=true&locale=en&layout=compact" alt="tugbaev04" /></p>
+<!-- Контейнер для всех секций навыков -->
+<div style="display:flex; flex-direction:column; gap:18px; align-items:flex-start;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugbaev04&show_icons=true&locale=en" alt="tugbaev04" /></p>
+  <!-- Технологии (icons в строку) -->
+  <div>
+    <h4 style="margin:0 0 8px 0;">Технологии</h4>
+    <div style="display:flex; flex-wrap:wrap; align-items:center; gap:12px;">
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="border:0; vertical-align:middle;">
+      </a>
+    </div>
+  </div>
+
+  <!-- Инструменты (icons в строку, идут сразу после технологий) -->
+  <div>
+    <h4 style="margin:0 0 8px 0;">Инструменты</h4>
+    <div style="display:flex; flex-wrap:wrap; align-items:center; gap:12px;">
+      <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://mui.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" style="border:0; vertical-align:middle;">
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="border:0; vertical-align:middle;">
+      </a>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Контакты
+[GitHub](https://github.com/tugbaev04) · [LinkedIn](https://linkedin.com/in/artem-tugbaev-8aa045378)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tugbaev04&show_icons=true&count_private=true&hide_border=true" alt="github stats" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=tugbaev04&style=flat-square" alt="profile views" />
+</div>
